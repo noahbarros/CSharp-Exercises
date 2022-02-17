@@ -1,0 +1,7 @@
+C:\Users\Noah & Luiza\source\repos\CSharpParte1-PrimeirosPassos\10-CalculoPolpanca\bin\Debug\10-CalculoPolpanca.exe.config
+C:\Users\Noah & Luiza\source\repos\CSharpParte1-PrimeirosPassos\10-CalculoPolpanca\bin\Debug\10-CalculoPolpanca.exe
+C:\Users\Noah & Luiza\source\repos\CSharpParte1-PrimeirosPassos\10-CalculoPolpanca\bin\Debug\10-CalculoPolpanca.pdb
+C:\Users\Noah & Luiza\source\repos\CSharpParte1-PrimeirosPassos\10-CalculoPolpanca\obj\Debug\10-CalculoPolpanca.csproj.SuggestedBindingRedirects.cache
+C:\Users\Noah & Luiza\source\repos\CSharpParte1-PrimeirosPassos\10-CalculoPolpanca\obj\Debug\10-CalculoPolpanca.csproj.CoreCompileInputs.cache
+C:\Users\Noah & Luiza\source\repos\CSharpParte1-PrimeirosPassos\10-CalculoPolpanca\obj\Debug\10-CalculoPolpanca.exe
+C:\Users\Noah & Luiza\source\repos\CSharpParte1-PrimeirosPassos\10-CalculoPolpanca\obj\Debug\10-CalculoPolpanca.pdb

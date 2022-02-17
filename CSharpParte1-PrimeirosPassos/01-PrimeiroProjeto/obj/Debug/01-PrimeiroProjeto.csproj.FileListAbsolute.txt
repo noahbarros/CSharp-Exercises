@@ -1,0 +1,8 @@
+C:\Users\Noah & Luiza\source\repos\CSharpParte1-PrimeirosPassos\01-PrimeiroProjeto\bin\Debug\01-PrimeiroProjeto.exe.config
+C:\Users\Noah & Luiza\source\repos\CSharpParte1-PrimeirosPassos\01-PrimeiroProjeto\bin\Debug\01-PrimeiroProjeto.exe
+C:\Users\Noah & Luiza\source\repos\CSharpParte1-PrimeirosPassos\01-PrimeiroProjeto\bin\Debug\01-PrimeiroProjeto.pdb
+C:\Users\Noah & Luiza\source\repos\CSharpParte1-PrimeirosPassos\01-PrimeiroProjeto\obj\Debug\01-PrimeiroProjeto.csproj.AssemblyReference.cache
+C:\Users\Noah & Luiza\source\repos\CSharpParte1-PrimeirosPassos\01-PrimeiroProjeto\obj\Debug\01-PrimeiroProjeto.csproj.SuggestedBindingRedirects.cache
+C:\Users\Noah & Luiza\source\repos\CSharpParte1-PrimeirosPassos\01-PrimeiroProjeto\obj\Debug\01-PrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Noah & Luiza\source\repos\CSharpParte1-PrimeirosPassos\01-PrimeiroProjeto\obj\Debug\01-PrimeiroProjeto.exe
+C:\Users\Noah & Luiza\source\repos\CSharpParte1-PrimeirosPassos\01-PrimeiroProjeto\obj\Debug\01-PrimeiroProjeto.pdb

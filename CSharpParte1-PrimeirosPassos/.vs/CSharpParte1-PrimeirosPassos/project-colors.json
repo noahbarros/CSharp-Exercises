@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2162d7a6-1568-45bf-85ff-eb13e769fd5c": {
+      "ProjectGuid": "2162d7a6-1568-45bf-85ff-eb13e769fd5c",
+      "DisplayName": "01-PrimeiroProjeto",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Arquivos Diversos",
+      "ColorIndex": -1
+    },
+    "68a907ee-512f-489f-993b-be62e2113ed9": {
+      "ProjectGuid": "68a907ee-512f-489f-993b-be62e2113ed9",
+      "DisplayName": "02-CriandoVariaveis",
+      "ColorIndex": 1
+    },
+    "dd1faabb-c3b6-49b6-bb86-5b46c3819b6e": {
+      "ProjectGuid": "dd1faabb-c3b6-49b6-bb86-5b46c3819b6e",
+      "DisplayName": "03-CriandoVariaveisPontoFlutuante",
+      "ColorIndex": 2
+    },
+    "761361f2-b7f3-4ab5-a740-959512ed82ba": {
+      "ProjectGuid": "761361f2-b7f3-4ab5-a740-959512ed82ba",
+      "DisplayName": "04-ConversoesEOutrosTiposNumericos",
+      "ColorIndex": 3
+    },
+    "a3fb7a53-39bb-467b-8428-1b82173e126e": {
+      "ProjectGuid": "a3fb7a53-39bb-467b-8428-1b82173e126e",
+      "DisplayName": "05-CaracteresETextos",
+      "ColorIndex": 4
+    },
+    "51705064-49bb-4392-a6e2-ae5cd786ee1d": {
+      "ProjectGuid": "51705064-49bb-4392-a6e2-ae5cd786ee1d",
+      "DisplayName": "06-AtribuicoesDeVariaveis",
+      "ColorIndex": 5
+    },
+    "ccb58e3c-8fc2-4d48-ac1f-47a6ede84c8b": {
+      "ProjectGuid": "ccb58e3c-8fc2-4d48-ac1f-47a6ede84c8b",
+      "DisplayName": "07-Condicionais",
+      "ColorIndex": 6
+    },
+    "d53cb24b-a3c7-4122-b8fa-81b8b16190a2": {
+      "ProjectGuid": "d53cb24b-a3c7-4122-b8fa-81b8b16190a2",
+      "DisplayName": "08-Condicionais2",
+      "ColorIndex": 7
+    },
+    "1f0f7323-43ad-4edd-beee-b1dce406937c": {
+      "ProjectGuid": "1f0f7323-43ad-4edd-beee-b1dce406937c",
+      "DisplayName": "09-Escopo",
+      "ColorIndex": 8
+    },
+    "4c3f1bc8-9daa-400f-8ced-991e371892fa": {
+      "ProjectGuid": "4c3f1bc8-9daa-400f-8ced-991e371892fa",
+      "DisplayName": "10-CalculoPoupanca",
+      "ColorIndex": 9
+    },
+    "11cc7a8f-11c3-4444-ac10-fe65ec03c719": {
+      "ProjectGuid": "11cc7a8f-11c3-4444-ac10-fe65ec03c719",
+      "DisplayName": "11-CalculoPoupanca",
+      "ColorIndex": 10
+    },
+    "2dda05ad-cee1-40c7-9b13-0c71c4029f87": {
+      "ProjectGuid": "2dda05ad-cee1-40c7-9b13-0c71c4029f87",
+      "DisplayName": "10-CalculoPolpanca",
+      "ColorIndex": 11
+    },
+    "83a9fba4-30a5-45bb-98f2-2201d4d166e8": {
+      "ProjectGuid": "83a9fba4-30a5-45bb-98f2-2201d4d166e8",
+      "DisplayName": "11-CalculoPoupanca2",
+      "ColorIndex": 12
+    },
+    "1ca10203-1d0d-4568-8d6e-fd410e8b26a9": {
+      "ProjectGuid": "1ca10203-1d0d-4568-8d6e-fd410e8b26a9",
+      "DisplayName": "12-CalculoInvestimentoLongoPrazo",
+      "ColorIndex": 13
+    },
+    "fa95196a-1448-4ff7-a684-daa327478da3": {
+      "ProjectGuid": "fa95196a-1448-4ff7-a684-daa327478da3",
+      "DisplayName": "13-ForEncadeado",
+      "ColorIndex": 14
+    }
+  },
+  "NextColorIndex": 15
+}

@@ -1,0 +1,7 @@
+C:\Users\Noah & Luiza\source\repos\CSharpParte1-PrimeirosPassos\09-Escopo\bin\Debug\09-Escopo.exe.config
+C:\Users\Noah & Luiza\source\repos\CSharpParte1-PrimeirosPassos\09-Escopo\bin\Debug\09-Escopo.exe
+C:\Users\Noah & Luiza\source\repos\CSharpParte1-PrimeirosPassos\09-Escopo\bin\Debug\09-Escopo.pdb
+C:\Users\Noah & Luiza\source\repos\CSharpParte1-PrimeirosPassos\09-Escopo\obj\Debug\09-Escopo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Noah & Luiza\source\repos\CSharpParte1-PrimeirosPassos\09-Escopo\obj\Debug\09-Escopo.csproj.CoreCompileInputs.cache
+C:\Users\Noah & Luiza\source\repos\CSharpParte1-PrimeirosPassos\09-Escopo\obj\Debug\09-Escopo.exe
+C:\Users\Noah & Luiza\source\repos\CSharpParte1-PrimeirosPassos\09-Escopo\obj\Debug\09-Escopo.pdb
